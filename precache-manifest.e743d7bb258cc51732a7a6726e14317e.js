@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43429375adb55d236e2955a9ab31f7d4",
+    "revision": "6451d27be5b4ed7d32d4585ca0613851",
     "url": "/bazkor-samurai/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bazkor-samurai/static/css/6.9585656f.chunk.css"
   },
   {
-    "revision": "e87766b322d914e611bd",
+    "revision": "e49ec426c6bcf7154c03",
     "url": "/bazkor-samurai/static/css/main.79f3bc77.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bazkor-samurai/static/js/6.1885f181.chunk.js"
   },
   {
-    "revision": "e87766b322d914e611bd",
-    "url": "/bazkor-samurai/static/js/main.ae750d41.chunk.js"
+    "revision": "e49ec426c6bcf7154c03",
+    "url": "/bazkor-samurai/static/js/main.3d7ffb1a.chunk.js"
   },
   {
     "revision": "04c66072703fd966a159",

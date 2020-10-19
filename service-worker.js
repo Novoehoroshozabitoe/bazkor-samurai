@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bazkor-samurai/precache-manifest.9eb25ad1c9d01d45cf15d16206ea5864.js"
+  "/bazkor-samurai/precache-manifest.e743d7bb258cc51732a7a6726e14317e.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -3,8 +3,8 @@
     "static/js/0.bcf87943.chunk.js": "/bazkor-samurai/static/js/0.bcf87943.chunk.js",
     "static/js/0.bcf87943.chunk.js.map": "/bazkor-samurai/static/js/0.bcf87943.chunk.js.map",
     "main.css": "/bazkor-samurai/static/css/main.79f3bc77.chunk.css",
-    "main.js": "/bazkor-samurai/static/js/main.ae750d41.chunk.js",
-    "main.js.map": "/bazkor-samurai/static/js/main.ae750d41.chunk.js.map",
+    "main.js": "/bazkor-samurai/static/js/main.3d7ffb1a.chunk.js",
+    "main.js.map": "/bazkor-samurai/static/js/main.3d7ffb1a.chunk.js.map",
     "runtime-main.js": "/bazkor-samurai/static/js/runtime-main.18fab3df.js",
     "runtime-main.js.map": "/bazkor-samurai/static/js/runtime-main.18fab3df.js.map",
     "static/js/3.7e7a07ba.chunk.js": "/bazkor-samurai/static/js/3.7e7a07ba.chunk.js",
@@ -19,7 +19,7 @@
     "static/js/6.1885f181.chunk.js": "/bazkor-samurai/static/js/6.1885f181.chunk.js",
     "static/js/6.1885f181.chunk.js.map": "/bazkor-samurai/static/js/6.1885f181.chunk.js.map",
     "index.html": "/bazkor-samurai/index.html",
-    "precache-manifest.9eb25ad1c9d01d45cf15d16206ea5864.js": "/bazkor-samurai/precache-manifest.9eb25ad1c9d01d45cf15d16206ea5864.js",
+    "precache-manifest.e743d7bb258cc51732a7a6726e14317e.js": "/bazkor-samurai/precache-manifest.e743d7bb258cc51732a7a6726e14317e.js",
     "service-worker.js": "/bazkor-samurai/service-worker.js",
     "static/css/4.620ef933.chunk.css.map": "/bazkor-samurai/static/css/4.620ef933.chunk.css.map",
     "static/css/5.6ae214ca.chunk.css.map": "/bazkor-samurai/static/css/5.6ae214ca.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.18fab3df.js",
     "static/js/3.7e7a07ba.chunk.js",
     "static/css/main.79f3bc77.chunk.css",
-    "static/js/main.ae750d41.chunk.js"
+    "static/js/main.3d7ffb1a.chunk.js"
   ]
 }
